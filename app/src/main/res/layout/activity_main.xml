@@ -10,7 +10,7 @@
     <ProgressBar
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:id="@+id/ibPBLoading"
+        android:id="@+id/idPBLoading"
         android:visibility="visible"
         android:layout_centerInParent="true"
         />
